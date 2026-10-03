@@ -63,7 +63,7 @@
 <h2 align="center">📫 Связаться со мной</h2>
 
 <p align="center">
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/Denesek1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://vk.com/your_vk">
