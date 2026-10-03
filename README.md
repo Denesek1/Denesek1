@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28" />
-  <b>Йоу, я Дениска, всем общий 67!</b>
+  <b>Йоу, я Дениска, всем общий 67! тут все из учебного материала в лабе</b>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28" />
 </p>
 
